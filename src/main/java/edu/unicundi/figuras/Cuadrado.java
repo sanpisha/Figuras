@@ -125,4 +125,5 @@ public class Cuadrado extends Figura {
         this.punto4 = punto4;
     }
     
+    
 }

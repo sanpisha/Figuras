@@ -2,7 +2,7 @@
 package edu.unicundi.figuras;
 
 /**
- * @author Anggy Arguello - Holmes Ayala
+ * @author Santiago Gómez
  */
 public class Punto {
     //  Coordenada X de un punto
